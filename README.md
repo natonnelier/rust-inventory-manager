@@ -1,6 +1,8 @@
 # Rust::Inventory Manager
 
-Desktop App for shops inventory management, developed using [Rust Nightly](https://doc.rust-lang.org/book/appendix-07-nightly-rust.html) and [Rocket](https://github.com/SergioBenitez/Rocket). Compatible with macOS, Linix and Windows.
+Webb App for shops inventory management, developed using [Rust Nightly](https://doc.rust-lang.org/book/appendix-07-nightly-rust.html) and [Rocket](https://github.com/SergioBenitez/Rocket).
+
+This is a work-in-progress, buggy, unpolished repo.
 
 ## Installation
 
